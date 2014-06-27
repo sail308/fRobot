@@ -1,0 +1,8 @@
+Vision: Particle.cpp, ParticleFilter.cpp
+Motion sensor: motion.cpp, comm.cpp
+RSSI: db_utils.cpp, ieee80211.h, ieee80211_radiotap.h, radiotap-parser.c, rssi.cpp, wifi_sniffer.cpp, wht_list.txt
+Wheelchair speed control: wccontrol.cpp, motor.cpp
+Main: main.cpp
+
+Motor control code modified.
+Real world coordination corrected.
